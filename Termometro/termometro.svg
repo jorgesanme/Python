@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="termometro.svg"
+   inkscape:export-filename="/home/jorge/Documentos/Cursos/Python/Termometro/image/centi.png"
+   inkscape:export-xdpi="80"
+   inkscape:export-ydpi="80">
+  <defs
+     id="defs2">
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path889"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:none;stroke-opacity:1;fill:#333333;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="193.59785"
+     inkscape:cy="800"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="829"
+     inkscape:window-x="0"
+     inkscape:window-y="34"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1288"
+       inkscape:export-filename="/home/jorge/Documentos/Cursos/Python/Termometro/image/fara.png"
+       inkscape:export-xdpi="80"
+       inkscape:export-ydpi="80">
+      <rect
+         inkscape:export-ydpi="80"
+         inkscape:export-xdpi="80"
+         inkscape:export-filename="/home/jorge/Documentos/Cursos/Python/Termometro/image/centi.png"
+         y="21.813141"
+         x="21.902426"
+         height="43.583244"
+         width="105.87371"
+         id="rect815"
+         style="opacity:0.95999995;fill:#f4eccb;fill-opacity:1;stroke:#f4eccb;stroke-width:0.1096162;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <text
+         transform="scale(0.94964624,1.0530237)"
+         id="text819"
+         y="48.938824"
+         x="29.739756"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:95.87319183px;line-height:1.25;font-family:Hobbiton;-inkscape-font-specification:Hobbiton;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.49801862;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:27.43070602px;font-family:Hobbiton;-inkscape-font-specification:Hobbiton;stroke:none;stroke-width:1.49801862;stroke-opacity:1"
+           y="48.938824"
+           x="29.739756"
+           id="tspan817"
+           sodipodi:role="line">F</tspan></text>
+      <text
+         transform="scale(0.9134967,1.0946947)"
+         id="text819-5"
+         y="50.693493"
+         x="111.75327"
+         style="font-style:normal;font-weight:normal;font-size:92.2236557px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.44099462;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:31.66381073px;font-family:Hobbiton;-inkscape-font-specification:Hobbiton;stroke:none;stroke-width:1.44099462;stroke-opacity:1"
+           y="50.693493"
+           x="111.75327"
+           id="tspan817-8"
+           sodipodi:role="line">C</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         d="m 53.802194,42.496961 c 0.915519,0.03589 1.831701,0.04203 2.747591,0.05467 1.985585,0.02912 3.971273,0.03587 5.956976,0.03808 1.717732,0.0016 3.435408,-0.0181 5.152905,-0.05151 0.664862,-0.0122 1.329718,-0.03074 1.994686,-0.02903 0.871924,0.01048 1.743829,0.02384 2.615758,0.03427 1.546545,0.0099 3.093093,0.01799 4.639647,0.02558 1.688629,0.01101 3.377298,-0.0016 5.065868,-0.01916 0.973538,-0.01027 1.947077,-0.01963 2.920602,-0.03161 0.521842,-0.0072 1.043704,-0.01082 1.565575,-0.01249 0.430365,-0.0011 0.860731,-7.94e-4 1.291098,-7.94e-4 0.472666,2.64e-4 0.945304,0.0039 1.417974,0.0032 0.460531,-0.0011 0.921063,-0.0021 1.381596,-0.0026 0.452707,-0.0024 0.905395,0.0013 1.358093,0.0029 0.428208,-0.02053 0.860669,0.0321 1.287882,-0.0155 0,0 -2.602347,2.316297 -2.602347,2.316297 v 0 c -0.413598,-0.06148 -0.837812,0.01545 -1.253042,-0.0155 -0.454899,0.0016 -0.909791,0.0053 -1.364701,0.0029 -0.458567,-5.3e-4 -0.917134,-0.0013 -1.375699,-0.0026 -0.475064,-7.94e-4 -0.950093,0.0029 -1.425152,0.0032 -0.429765,4.8e-5 -0.859534,2.09e-4 -1.289298,-7.94e-4 -0.512525,-0.0016 -1.025044,-0.0052 -1.537536,-0.01249 -0.949851,-0.01201 -1.899717,-0.02133 -2.849581,-0.03161 -1.674229,-0.0177 -3.34856,-0.03013 -5.022852,-0.01916 -1.565722,0.0076 -3.131441,0.01566 -4.697156,0.02558 -0.897599,0.01045 -1.795176,0.02376 -2.692769,0.03427 -0.643226,0.0016 -1.286334,-0.0163 -1.929446,-0.02903 -1.678905,-0.03417 -3.358007,-0.05327 -5.037161,-0.05151 -2.014219,0.0021 -4.028425,0.0093 -6.042531,0.03808 -0.956837,0.01281 -1.913921,0.01966 -2.870424,0.05466 0,0 2.593444,-2.308376 2.593444,-2.308376 z"
+         id="path839"
+         style="opacity:0.95999995;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;image-rendering:optimizeQuality" />
+      <ellipse
+         ry="3.96875"
+         rx="3.0427084"
+         cy="43.604763"
+         cx="54.636459"
+         id="path849"
+         style="opacity:0.95999995;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.14999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+  </g>
+</svg>
